@@ -1,0 +1,2 @@
+## Les pages demandés sont faites dans l'appararence
+## Seul le login est connecté a firebase, il faut se register avant par contre (pour des raisons que je n'ai pas determiné les messages d'erreur ne s'affichent pas toujours)
